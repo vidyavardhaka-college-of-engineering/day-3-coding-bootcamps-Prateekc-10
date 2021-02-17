@@ -14,10 +14,14 @@ int main()
     scanf("%d", &N);
 
     //Write your code here
+
+int i,sum=0;
+for(i=1;i<=N;i++)
+{
+sum = sum+i;  
+}  
        
-       
-       
-       
+  printf("sum of first %d integers is %d",N,sum);  
        
     return 0;
 }
