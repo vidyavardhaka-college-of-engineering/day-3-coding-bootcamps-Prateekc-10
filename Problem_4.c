@@ -5,12 +5,12 @@
 
 int main()
 {
-  	int n;
+  	int n,a,b;
 
   	scanf("%d", &n);
 
   	//Write your code here
-  	
+  
 
   	return 0;
 }
